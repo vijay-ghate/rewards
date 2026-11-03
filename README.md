@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# rewards
-=======
+
 # Customer Rewards Calculator
 
 A Java 8 / Spring Boot REST API that calculates customer reward points for purchases over a caller-selected date range.
@@ -115,4 +113,3 @@ git commit -m "feat: add customer rewards calculation API"
 - Sample data is in memory and resets on restart.
 - No authentication, database, pagination, or currency conversion is configured.
 - For production, persist customers and transactions, define currency/rounding policy, add API security, and use a resilient external service client with timeouts.
->>>>>>> origin/master
