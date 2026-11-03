@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# rewards
+# rewards calculator
 =======
 # Customer Rewards Calculator
 
@@ -115,4 +114,3 @@ git commit -m "feat: add customer rewards calculation API"
 - Sample data is in memory and resets on restart.
 - No authentication, database, pagination, or currency conversion is configured.
 - For production, persist customers and transactions, define currency/rounding policy, add API security, and use a resilient external service client with timeouts.
->>>>>>> origin/master
